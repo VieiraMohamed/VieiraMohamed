@@ -12,13 +12,13 @@
 - 🧠 [TDAtracker](https://github.com/VieiraMohamed/TDAtracker) — App web integral para personas con TDA/TDAH  
 - 🎨 [Diseño Web](https://github.com/VieiraMohamed/Interfaces-web) — Ejercicios y prácticas en CSS, Flexbox, Grid  
 - 🐘 [PHP Backend](https://github.com/VieiraMohamed/desarrollo-web-servidor) — Scripts y ejercicios backend  
-- 🛡️ [Mini proyectos de ciberseguridad](https://github.com/VieiraMohamed/SecurityProjects) *(en preparación)*  
+- 🛡️ [Mini proyectos de ciberseguridad](https://github.com/VieiraMohamed/SecurityProjects) *(en proceso)*  
 
 ---
 
 ## 🧠 Certificación en Ciberseguridad por Google
 
-🎓 Completé el programa [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/professional-certificates/google-cybersecurity) en Coursera, diseñado para preparar a futuros analistas de ciberseguridad mediante simulaciones reales y uso de herramientas industriales.
+🎓 El programa [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/professional-certificates/google-cybersecurity) en Coursera, diseñado para preparar a futuros analistas de ciberseguridad mediante simulaciones reales y uso de herramientas industriales.
 
 ### 🔍 Contenidos clave aprendidos
 
