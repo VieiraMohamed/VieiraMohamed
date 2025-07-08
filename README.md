@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Vieira
 
-<p align="center">
+<p >
   🎓 Profesional de desarrollo web y sistemas informáticos<br>
   🔐 Apasionado por la <strong>programación</strong>, la <strong>ciberseguridad</strong> y el desarrollo de herramientas útiles como <strong>TDAtracker</strong><br>
   📺 Creador de contenido en <a href="https://youtube.com/@VieiraDevSec" target="_blank" rel="noopener noreferrer">YouTube</a> sobre programación, Linux y ciberseguridad<br>
