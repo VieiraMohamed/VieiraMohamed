@@ -66,9 +66,9 @@
 
 ## 📺 También en YouTube
 
-🎥 Explico mis proyectos y desarrollo en mi canal:  
+🎥 Explico mis proyectos y desarrollo en mi canal:
 
-[![YouTube](https://img.shields.io/badge/Youtube-Ver%20canal-red?style=for-the-badge&logo=youtube)]
+[![YouTube](https://img.shields.io/badge/Youtube-Ver%20canal-red?style=for-the-badge&logo=youtube)](https://youtube.com/@VieiraDevSec)
 
 ---
 
