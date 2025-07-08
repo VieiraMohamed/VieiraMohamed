@@ -59,7 +59,7 @@
 ## 📚 Formación y certificaciones
 
 - 🧩 Curso intermedio de **Cisco Networking Academy**
-- 🛡️ **Google Cybersecurity Professional Certificate** *(completado)*  
+- 🛡️ **Google Cybersecurity Professional Certificate** *(En proceso)*  
 - 🧠 Conocimientos en **análisis de riesgos**, **seguridad en redes**, **bash scripting**, y **automatización con Python**
 
 ---
@@ -69,7 +69,7 @@
 🎥 Explico mis proyectos y desarrollo en mi canal:  
 👉 (https://youtube.com/@VieiraDevSec)
 
-[![YouTube](https://img.shields.io/badge/Youtube-Ver%20canal-red?style=for-the-badge&logo=youtube)](https://youtube.com/@TuCanal)
+[![YouTube](https://img.shields.io/badge/Youtube-Ver%20canal-red?style=for-the-badge&logo=youtube)]
 
 ---
 
