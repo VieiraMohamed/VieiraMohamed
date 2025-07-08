@@ -2,8 +2,8 @@
 
 🎓 Estudiante de desarrollo web y sistemas informáticos  
 🔐 Apasionado por la **programación**, la **ciberseguridad** y el desarrollo de herramientas útiles como **TDAtracker**  
-📺 Creador de contenido en [YouTube](https://youtube.com/@TuCanal) sobre programación, Linux y ciberseguridad  
-📫 Contacto: tuemail@example.com  
+📺 Creador de contenido en [YouTube](https://youtube.com/@VieiraDevSec) sobre programación, Linux y ciberseguridad  
+📫 Contacto: vieiraj4@gmail.com  
 
 ---
 
