@@ -1,9 +1,11 @@
 # 👋 ¡Hola! Soy Vieira
 
-🎓 Estudiante de desarrollo web y sistemas informáticos  
-🔐 Apasionado por la **programación**, la **ciberseguridad** y el desarrollo de herramientas útiles como **TDAtracker**  
-📺 Creador de contenido en [YouTube](https://youtube.com/@VieiraDevSec) sobre programación, Linux y ciberseguridad  
-📫 Contacto: vieiraj4@gmail.com  
+<p align="center">
+  🎓 Estudiante de desarrollo web y sistemas informáticos<br>
+  🔐 Apasionado por la <strong>programación</strong>, la <strong>ciberseguridad</strong> y el desarrollo de herramientas útiles como <strong>TDAtracker</strong><br>
+  📺 Creador de contenido en <a href="https://youtube.com/@VieiraDevSec" target="_blank" rel="noopener noreferrer">YouTube</a> sobre programación, Linux y ciberseguridad<br>
+  📫 Contacto: <a href="mailto:vieiraj4@gmail.com">vieiraj4@gmail.com</a>
+</p>
 
 ---
 
@@ -18,7 +20,9 @@
 
 ## 🧠 Certificación en Ciberseguridad por Google
 
-🎓 El programa [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/professional-certificates/google-cybersecurity) en Coursera, diseñado para preparar a futuros analistas de ciberseguridad mediante simulaciones reales y uso de herramientas industriales.
+<p>
+El programa <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" rel="noopener noreferrer"><strong>Google Cybersecurity Professional Certificate</strong></a> en Coursera, diseñado para preparar a futuros analistas de ciberseguridad mediante simulaciones reales y uso de herramientas industriales.
+</p>
 
 ### 🔍 Contenidos clave aprendidos
 
@@ -26,39 +30,47 @@
 - Evaluación de riesgos, activos, amenazas y vulnerabilidades  
 - Seguridad en redes, IDS/IPS, firewalls y protocolos  
 - Análisis de tráfico con Wireshark y tcpdump  
-- Automatización con **Python** y análisis de datos con **SQL**  
-- Gestión de eventos e incidentes con **Splunk** y **Google Chronicle** (SIEM)  
+- Automatización con <strong>Python</strong> y análisis de datos con <strong>SQL</strong>  
+- Gestión de eventos e incidentes con <strong>Splunk</strong> y <strong>Google Chronicle</strong> (SIEM)  
 - Investigación forense, respuesta a incidentes y buenas prácticas  
 
 ### 🛠️ Herramientas y tecnologías
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Google Chronicle](https://img.shields.io/badge/Chronicle-4285F4?style=flat&logo=google&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![tcpdump](https://img.shields.io/badge/TCPDump-004482?style=flat&logo=gnu&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Chronicle-4285F4?style=flat&logo=google&logoColor=white" alt="Google Chronicle" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/TCPDump-004482?style=flat&logo=gnu&logoColor=white" alt="tcpdump" />
+</p>
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### Desarrollo
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+</p>
 
 ### Seguridad y análisis
-🔐 Encriptación, análisis de logs, SIEM, detección de intrusiones, automatización de respuestas
+
+<p align="center">
+  🔐 Encriptación, análisis de logs, SIEM, detección de intrusiones, automatización de respuestas
+</p>
 
 ---
 
 ## 📚 Formación y certificaciones
 
-- 🧩 Curso intermedio de **Cisco Networking Academy**
+- 🧩 Curso intermedio de **Cisco Networking Academy**  
 - 🛡️ **Google Cybersecurity Professional Certificate** *(En proceso)*  
 - 🧠 Conocimientos en **análisis de riesgos**, **seguridad en redes**, **bash scripting**, y **automatización con Python**
 
@@ -66,25 +78,33 @@
 
 ## 📺 También en YouTube
 
-🎥 Explico mis proyectos y desarrollo en mi canal:
+<p align="center">
+  🎥 Explico mis proyectos y desarrollo en mi canal:
+</p>
 
-[![YouTube](https://img.shields.io/badge/Youtube-Ver%20canal-red?style=for-the-badge&logo=youtube)](https://youtube.com/@VieiraDevSec)
+<p align="center">
+  <a href="https://youtube.com/@VieiraDevSec" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Youtube-Ver%20canal-red?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VieiraMohamed&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VieiraMohamed&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## 💡 Intereses
 
-- 🔐 Ciberseguridad y análisis forense
-- 🌐 Desarrollo web full stack
-- 🧠 Proyectos educativos y accesibles con impacto social
+- 🔐 Ciberseguridad y análisis forense  
+- 🌐 Desarrollo web full stack  
+- 🧠 Proyectos educativos y accesibles con impacto social  
 - 🧰 Automatización de tareas con scripts
 
 ---
 
-*Gracias por visitar mi perfil. ¡Estoy siempre abierto a colaborar o aprender algo nuevo!*
+<p align="center"><em>Gracias por visitar mi perfil. ¡Estoy siempre abierto a colaborar o aprender algo nuevo!</em></p>
