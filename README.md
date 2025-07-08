@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Vieira
 
 <p align="center">
-  🎓 Estudiante de desarrollo web y sistemas informáticos<br>
+  🎓 Profesional de desarrollo web y sistemas informáticos<br>
   🔐 Apasionado por la <strong>programación</strong>, la <strong>ciberseguridad</strong> y el desarrollo de herramientas útiles como <strong>TDAtracker</strong><br>
   📺 Creador de contenido en <a href="https://youtube.com/@VieiraDevSec" target="_blank" rel="noopener noreferrer">YouTube</a> sobre programación, Linux y ciberseguridad<br>
   📫 Contacto: <a href="mailto:vieiraj4@gmail.com">vieiraj4@gmail.com</a>
@@ -70,6 +70,7 @@ El programa <a href="https://www.coursera.org/professional-certificates/google-c
 
 ## 📚 Formación y certificaciones
 
+- 🎓 Título profesional en Desarrollo Web y Sistemas Informáticos
 - 🧩 Curso intermedio de **Cisco Networking Academy**  
 - 🛡️ **Google Cybersecurity Professional Certificate** *(En proceso)*  
 - 🧠 Conocimientos en **análisis de riesgos**, **seguridad en redes**, **bash scripting**, y **automatización con Python**
