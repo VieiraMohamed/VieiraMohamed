@@ -20,11 +20,11 @@
  
 ---
 
-🧠 Certificaciones en Ciberseguridad
+##🧠 Certificaciones en Ciberseguridad
 📜 Cisco Ethical Hacker (Nivel intermedio)
 Curso completo en pruebas de penetración, análisis ofensivo y uso de herramientas reales, ofrecido por Cisco Networking Academy.
 
-🔗 Ver insignia en Credly
+🔗 Ver insignia en [Credly](https://www.credly.com/earner/earned/badge/18c720d3-1851-4b88-b9ba-6eaed0e40e58)
 📅 Emitido: 30 de diciembre de 2024
 
 Módulos completados
