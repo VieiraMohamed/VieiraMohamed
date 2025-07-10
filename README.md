@@ -1,5 +1,9 @@
 # 👋 ¡Hola! Soy Vieira
 
+<p align="center">
+  <img src="./banner.png" alt="Banner Vieira" width="100%" />
+</p>
+
 <p >
   🎓 Profesional de desarrollo web y sistemas informáticos<br>
   🔐 Apasionado por la <strong>programación</strong>, la <strong>ciberseguridad</strong> y el desarrollo de herramientas útiles como <strong>TDAtracker</strong><br>
