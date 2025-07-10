@@ -15,8 +15,9 @@
 
 ## 🚀 Proyectos destacados
 
-- 🧠 [TDAtracker](https://github.com/VieiraMohamed/TDAtracker) — App web integral para personas con TDA/TDAH  
-- 🎉 [Exponga](https://github.com/VieiraMohamed/Exponga) — App web de eventos
+- 🧠 [TDAtracker](https://github.com/VieiraMohamed/TDAtracker) — App web integral para personas con TDA/TDAH.
+- 🎉 [Exponga](https://github.com/VieiraMohamed/Exponga) — App web de eventos.
+- 🛡️ [penetration-test-report](https://github.com/VieiraMohamed/penetration-test-report) — Test de penetración y reporte. 
  
 ---
 
