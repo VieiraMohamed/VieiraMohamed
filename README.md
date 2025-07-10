@@ -1,8 +1,9 @@
 <h2 align="center"> 👋 ¡Hola! Soy Vieira </h2>
 
 <p align="center">
-  <img src="./banner.png" alt="Banner Vieira" width="100%"  />
+  <img src="./banner.png" alt="Banner Vieira" style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;" />
 </p>
+
 
 <p >
   🎓 Profesional de desarrollo web y sistemas informáticos<br>
