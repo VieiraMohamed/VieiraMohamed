@@ -16,10 +16,8 @@
 ## 🚀 Proyectos destacados
 
 - 🧠 [TDAtracker](https://github.com/VieiraMohamed/TDAtracker) — App web integral para personas con TDA/TDAH  
-- 🎨 [Diseño Web](https://github.com/VieiraMohamed/Interfaces-web) — Ejercicios y prácticas en CSS, Flexbox, Grid  
-- 🐘 [PHP Backend](https://github.com/VieiraMohamed/desarrollo-web-servidor) — Scripts y ejercicios backend  
-- 🛡️ [Mini proyectos de ciberseguridad](https://github.com/VieiraMohamed/SecurityProjects) *(en proceso)*  
-
+- 🎨 [Exponga](https://github.com/VieiraMohamed/Exponga) — App web de eventos
+ 
 ---
 
 ## 🧠 Certificación en Ciberseguridad por Google
