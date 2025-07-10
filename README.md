@@ -1,7 +1,7 @@
 <h2 align="center"> 👋 ¡Hola! Soy Vieira </h2>
 
 <p align="center">
-  <img src="./banner.png" alt="Banner Vieira" style="max-width: 600px; width: 75%; height: auto; border-radius: 5%;" />
+  <img src="./banner_1.png" alt="Banner Vieira" style="max-width: 600px; width: 75%; height: auto; border-radius: 5%;" />
 </p>
 
 <p >
