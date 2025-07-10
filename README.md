@@ -54,6 +54,9 @@ Curso completo en pruebas de penetración, análisis ofensivo y uso de herramien
   <img src="https://img.shields.io/badge/SpiderFoot-242938?style=flat&logo=github&logoColor=white" alt="SpiderFoot" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/TCPDump-004482?style=flat&logo=gnu&logoColor=white" alt="tcpdump" />
+  <img src="https://img.shields.io/badge/Nikto-0E76A8?style=flat&logo=nikto&logoColor=white" alt="Nikto" />
+  <img src="https://img.shields.io/badge/Enum4linux-008080?style=flat&logo=windows&logoColor=white" alt="Enum4linux" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=flat&logo=hashicorp&logoColor=white" alt="John the Ripper" />
 </p>
 
 ---
