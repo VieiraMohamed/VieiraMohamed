@@ -20,6 +20,37 @@
  
 ---
 
+🧠 Certificaciones en Ciberseguridad
+📜 Cisco Ethical Hacker (Nivel intermedio)
+Curso completo en pruebas de penetración, análisis ofensivo y uso de herramientas reales, ofrecido por Cisco Networking Academy.
+
+🔗 Ver insignia en Credly
+📅 Emitido: 30 de diciembre de 2024
+
+Módulos completados
+🔐 Introducción al hacking ético y pruebas de penetración
+
+📑 Planificación y alcance de una evaluación de pentest
+
+🕵️ Recolección de información y escaneo de vulnerabilidades
+
+🎭 Ingeniería social y ataques de manipulación humana
+
+🌐 Explotación de redes cableadas e inalámbricas
+
+🧱 Explotación de vulnerabilidades en aplicaciones
+
+☁️ Seguridad en entornos cloud, dispositivos móviles e IoT
+
+🧠 Técnicas de post-explotación y persistencia
+
+📊 Elaboración de informes y comunicación de hallazgos
+
+💻 Análisis de herramientas, scripts y revisión de código
+
+Tecnologías y herramientas utilizadas
+<p align="center"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Nmap-005CC5?style=flat&logo=nmap&logoColor=white" alt="Nmap" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" /> <img src="https://img.shields.io/badge/SpiderFoot-242938?style=flat&logo=github&logoColor=white" alt="SpiderFoot" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/TCPDump-004482?style=flat&logo=gnu&logoColor=white" alt="tcpdump" /> </p>
+
 ## 🧠 Certificación en Ciberseguridad por Google
 
 <p>
