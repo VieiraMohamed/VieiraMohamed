@@ -1,7 +1,7 @@
-<h2 align="center"> # 👋 ¡Hola! Soy Vieira </h2>
+<h2 align="center"> 👋 ¡Hola! Soy Vieira </h2>
 
 <p align="center">
-  <img src="./banner.png" alt="Banner Vieira" width="50%" />
+  <img src="./banner.png" alt="Banner Vieira" width="100%"  />
 </p>
 
 <p >
