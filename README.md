@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Vieira
+<p align="center"> # 👋 ¡Hola! Soy Vieira </p>
 
 <p align="center">
   <img src="./banner.png" alt="Banner Vieira" width="100%" />
