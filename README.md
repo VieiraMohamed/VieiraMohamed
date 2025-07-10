@@ -28,7 +28,7 @@ El programa <a href="https://www.coursera.org/professional-certificates/google-c
 
 - Fundamentos de ciberseguridad: CIA Triad, NIST Framework, CIS Controls  
 - Evaluación de riesgos, activos, amenazas y vulnerabilidades  
-- Seguridad en redes, IDS/IPS, firewalls y protocolos  
+- Seguridad en redes, IDS/IPS,HIDP/NIDS, firewalls y protocolos  
 - Análisis de tráfico con Wireshark y tcpdump  
 - Automatización con <strong>Python</strong> y análisis de datos con <strong>SQL</strong>  
 - Gestión de eventos e incidentes con <strong>Splunk</strong> y <strong>Google Chronicle</strong> (SIEM)  
