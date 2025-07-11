@@ -62,6 +62,30 @@ Curso completo en pruebas de penetración, análisis ofensivo y uso de herramien
 
 ---
 
+### 🧠 Junior Cybersecurity Analyst Career Path — Cisco Networking Academy
+<p> Ruta profesional completa que abarca los fundamentos esenciales de la ciberseguridad, incluyendo defensa de sistemas, gestión de amenazas, seguridad en redes y dispositivos, y preparación para el examen de certificación CCST Cybersecurity. Emitida por Cisco Networking Academy. </p>
+
+🔗 Ver insignia en [Credly](https://www.credly.com/earner/earned/badge/aca44891-cfc2-41cd-87fc-a2dbf2d0720b)  
+📅 Emitido: [añade la fecha de emisión]
+
+📚 Contenidos clave aprendidos
+-🔐 Access Controls, Firewalls y Defense-in-Depth
+-🛡️ Protección antimalware, de endpoints y sistemas
+-🌐 Seguridad en aplicaciones, redes, cloud y WLANs
+-📡 Seguridad en dispositivos móviles y ataques inalámbricos
+-🧠 Políticas, regulaciones y estándares de seguridad
+-🕵️ Prevención de intrusiones y gestión de amenazas
+-🧱 Hardening de sistemas Linux y Windows
+-📊 Mitigación de ataques comunes y vulnerabilidades TCP/IP
+-🧩 Fundamentos de análisis forense y respuesta a incidentes
+
+#### Tecnologías y herramientas utilizadas
+<p align="center"> <img src="https://img.shields.io/badge/Windows_Security-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Security" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Firewall-FF0000?style=flat&logo=cisco&logoColor=white" alt="Firewall" /> <img src="https://img.shields.io/badge/Intrusion_Prevention-242938?style=flat&logo=github&logoColor=white" alt="Host-based Intrusion Prevention" /> </p>
+
+<p align="center"> <a href="https://www.credly.com/earner/earned/badge/aca44891-cfc2-41cd-87fc-a2dbf2d0720b" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/images/2e7f3c4e-9c5e-4b9f-9e6e-1f5a3e3c1f2e/endpoint-security.png" alt="Junior Cybersecurity Analyst Badge" style="width:150px; border-radius: 8px;" /> </a> </p>
+
+--
+
 ### 🧠 Certificación en Ciberseguridad por Google
 
 <p>
