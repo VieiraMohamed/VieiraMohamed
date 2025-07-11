@@ -95,12 +95,6 @@ Emitida por Cisco Networking Academy.
   <img src="https://img.shields.io/badge/Intrusion_Prevention-242938?style=flat&logo=github&logoColor=white" alt="Host-based Intrusion Prevention" />
 </p>
 
-<p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/aca44891-cfc2-41cd-87fc-a2dbf2d0720b" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/2e7f3c4e-9c5e-4b9f-9e6e-1f5a3e3c1f2e/endpoint-security.png" alt="Junior Cybersecurity Analyst Badge" style="width:150px; border-radius: 8px;" />
-  </a>
-</p>
-
 ---
 
 ### 🧠 Certificación en Ciberseguridad por Google
