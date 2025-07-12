@@ -21,110 +21,41 @@
  
 ---
 
-## 🧠 Certificaciones en Ciberseguridad
+## 🛡️ Certificaciones y habilidades en Ciberseguridad
 
----
+He completado rutas profesionales y certificaciones en ciberseguridad ofensiva y defensiva, incluyendo formación con Cisco y Google. Abarco pruebas de penetración, análisis forense, automatización y gestión de amenazas.
 
-### 📜 Cisco Ethical Hacker (Nivel intermedio)
+🔗 Ver insignias en [Credly](https://www.credly.com/users/vieira)  
+📅 Última certificación: **Google Cybersecurity Professional Certificate** *(en curso)*
 
-Curso completo en pruebas de penetración, análisis ofensivo y uso de herramientas reales, ofrecido por Cisco Networking Academy.
+### 📚 Áreas clave
 
-🔗 Ver insignia en [Credly](https://www.credly.com/earner/earned/badge/18c720d3-1851-4b88-b9ba-6eaed0e40e58)  
-📅 Emitido: 30 de diciembre de 2024
+- Pentesting, recolección de información y post-explotación  
+- Seguridad en redes, cloud, endpoints, dispositivos móviles e IoT  
+- Automatización con **Python** y análisis con **SQL**  
+- Uso de herramientas SIEM: **Splunk**, **Google Chronicle**  
+- Prevención de intrusiones, análisis de vulnerabilidades y hardening  
+- Respuesta a incidentes, investigación forense y normas de ciberseguridad
 
-#### Módulos completados
-
-- 🔐 Introducción al hacking ético y pruebas de penetración  
-- 📑 Planificación y alcance de una evaluación de pentest  
-- 🕵️ Recolección de información y escaneo de vulnerabilidades  
-- 🎭 Ingeniería social y ataques de manipulación humana  
-- 🌐 Explotación de redes cableadas e inalámbricas  
-- 🧱 Explotación de vulnerabilidades en aplicaciones  
-- ☁️ Seguridad en entornos cloud, dispositivos móviles e IoT  
-- 🧠 Técnicas de post-explotación y persistencia  
-- 📊 Elaboración de informes y comunicación de hallazgos  
-- 💻 Análisis de herramientas, scripts y revisión de código  
-
-#### Tecnologías y herramientas utilizadas
+### 🛠️ Herramientas destacadas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-005CC5?style=flat&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/SpiderFoot-242938?style=flat&logo=github&logoColor=white" alt="SpiderFoot" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/TCPDump-004482?style=flat&logo=gnu&logoColor=white" alt="tcpdump" />
-  <img src="https://img.shields.io/badge/Nikto-0E76A8?style=flat&logo=nikto&logoColor=white" alt="Nikto" />
-  <img src="https://img.shields.io/badge/Enum4linux-008080?style=flat&logo=windows&logoColor=white" alt="Enum4linux" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=flat&logo=hashicorp&logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Nmap-005CC5?style=flat&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCPDump-004482?style=flat&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enum4linux-008080?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=flat&logo=hashicorp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpiderFoot-242938?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chronicle-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
----
-
----
-
-### 🧠 Junior Cybersecurity Analyst Career Path — Cisco Networking Academy
-
-<p>
-Ruta profesional completa que abarca los fundamentos esenciales de la ciberseguridad, incluyendo defensa de sistemas, gestión de amenazas, seguridad en redes y dispositivos, y preparación para el examen de certificación CCST Cybersecurity.  
-Emitida por Cisco Networking Academy.
-</p>
-
-🔗 Ver insignia en [Credly](https://www.credly.com/earner/earned/badge/aca44891-cfc2-41cd-87fc-a2dbf2d0720b)  
-📅 Emitido: 11 de julio de 2025
-
-#### 📚 Contenidos clave aprendidos
-
-- 🔐 Access Controls, Firewalls y Defense-in-Depth  
-- 🛡️ Protección antimalware, de endpoints y sistemas  
-- 🌐 Seguridad en aplicaciones, redes, cloud y WLANs  
-- 📡 Seguridad en dispositivos móviles y ataques inalámbricos  
-- 🧠 Políticas, regulaciones y estándares de seguridad  
-- 🕵️ Prevención de intrusiones y gestión de amenazas  
-- 🧱 Hardening de sistemas Linux y Windows  
-- 📊 Mitigación de ataques comunes y vulnerabilidades TCP/IP  
-- 🧩 Fundamentos de análisis forense y respuesta a incidentes
-
-#### 🛠️ Tecnologías y herramientas utilizadas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Security-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Security" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Firewall-FF0000?style=flat&logo=cisco&logoColor=white" alt="Firewall" />
-  <img src="https://img.shields.io/badge/Intrusion_Prevention-242938?style=flat&logo=github&logoColor=white" alt="Host-based Intrusion Prevention" />
-</p>
-
----
-
-### 🧠 Certificación en Ciberseguridad por Google
-
-<p>
-El programa <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" rel="noopener noreferrer"><strong>Google Cybersecurity Professional Certificate</strong></a> en Coursera, diseñado para preparar a futuros analistas de ciberseguridad mediante simulaciones reales y uso de herramientas industriales.
-</p>
-
-#### 🔍 Contenidos clave aprendidos
-
-- Fundamentos de ciberseguridad: CIA Triad, NIST Framework, CIS Controls  
-- Evaluación de riesgos, activos, amenazas y vulnerabilidades  
-- Seguridad en redes, IDS/IPS,HIDP/NIDS, firewalls y protocolos  
-- Análisis de tráfico con Wireshark y tcpdump  
-- Automatización con <strong>Python</strong> y análisis de datos con <strong>SQL</strong>  
-- Gestión de eventos e incidentes con <strong>Splunk</strong> y <strong>Google Chronicle</strong> (SIEM)  
-- Investigación forense, respuesta a incidentes y buenas prácticas  
-
-#### 🛠️ Herramientas y tecnologías
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Chronicle-4285F4?style=flat&logo=google&logoColor=white" alt="Google Chronicle" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/TCPDump-004482?style=flat&logo=gnu&logoColor=white" alt="tcpdump" />
-</p>
+🧾 Más detalles sobre cada certificación en [Formación y certificaciones](#formación-y-certificaciones)
 
 ---
 
@@ -151,10 +82,23 @@ El programa <a href="https://www.coursera.org/professional-certificates/google-c
 
 ## 📚 Formación y certificaciones
 
-- 🎓 Título profesional en Desarrollo Web y Sistemas Informáticos
-- 🧩 Curso intermedio de **Cisco Networking Academy**  
-- 🛡️ **Google Cybersecurity Professional Certificate** *(En proceso)*  
-- 🧠 Conocimientos en **análisis de riesgos**, **seguridad en redes**, **bash scripting**, y **automatización con Python**
+### 🎓 Educación formal
+
+- Título profesional en **Desarrollo Web y Sistemas Informáticos**
+
+### 🛡️ Certificaciones profesionales
+
+- **🔐 Cisco Ethical Hacker (Nivel Intermedio)**  
+  Formación en pentesting, explotación de vulnerabilidades y post-explotación con herramientas reales.
+
+- **🧠 Junior Cybersecurity Analyst – Cisco Networking Academy**  
+  Fundamentos defensivos: firewalls, detección de intrusiones, hardening y análisis forense básico. Preparación para el examen **CCST Cybersecurity**.
+
+- **🔍 Google Cybersecurity Professional Certificate** *(En curso)*  
+  Enfoque integral en ciberseguridad, automatización con Python y SQL, análisis de tráfico y gestión de incidentes con SIEM.
+
+📅 Última actualización: **julio 2025**  
+🔗 Ver insignias: [Credly - Vieira](https://www.credly.com/users/vieira)
 
 ---
 
