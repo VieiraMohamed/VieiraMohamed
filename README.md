@@ -55,8 +55,6 @@ He completado rutas profesionales y certificaciones en ciberseguridad ofensiva y
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-🧾 Más detalles sobre cada certificación en [Formación y certificaciones](#formación-y-certificaciones)
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
