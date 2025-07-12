@@ -4,7 +4,7 @@
   <img src="./banner_1.png" alt="Banner Vieira" style="max-width: 600px; width: 75%; height: auto; border-radius: 5%;" />
 </p>
 
-<p >
+<p>
   🎓 Profesional de desarrollo web y sistemas informáticos<br>
   🔐 Apasionado por la <strong>programación</strong>, la <strong>ciberseguridad</strong> y el desarrollo de herramientas útiles como <strong>TDAtracker</strong><br>
   📺 Creador de contenido en <a href="https://youtube.com/@VieiraDevSec" target="_blank" rel="noopener noreferrer">YouTube</a> sobre programación y Linux<br>
@@ -18,24 +18,28 @@
 - 🧠 [TDAtracker](https://github.com/VieiraMohamed/TDAtracker) — App web integral para personas con TDA/TDAH.
 - 🎉 [Exponga](https://github.com/VieiraMohamed/Exponga) — App web de eventos.
 - 🛡️ [Penetration-test-report](https://github.com/VieiraMohamed/penetration-test-report) — Test de penetración y reporte. 
- 
+
 ---
 
-## 🛡️ Certificaciones y habilidades en Ciberseguridad
+## 🛡️ Ciberseguridad · Certificaciones y habilidades
 
-He completado rutas profesionales y certificaciones en ciberseguridad ofensiva y defensiva, incluyendo formación con Cisco y Google. Abarco pruebas de penetración, análisis forense, automatización y gestión de amenazas.
+Me especializo en ciberseguridad ofensiva y defensiva, con formación práctica en pruebas de penetración, análisis de vulnerabilidades, automatización y respuesta a incidentes.
 
-🔗 Ver insignias en [Credly](https://www.credly.com/users/jose-antonio-vieira-mohamed/badges#credly)  
-📅 Última certificación: **Google Cybersecurity Professional Certificate** *(en curso)*
+📚 Educación: Título en **Desarrollo Web y Sistemas Informáticos**  
+📜 Certificaciones:  
+- **Cisco Ethical Hacker (Intermedio)**  
+- **Junior Cybersecurity Analyst – Cisco Networking Academy**  
+- **Google Cybersecurity Professional Certificate** *(en curso)*
 
-### 📚 Áreas clave
+🔗 Ver insignias en [Credly](https://www.credly.com/users/vieira)
 
-- Pentesting, recolección de información y post-explotación  
-- Seguridad en redes, cloud, endpoints, dispositivos móviles e IoT  
+### 🧠 Competencias clave
+
+- Pentesting, explotación y post-explotación  
+- Análisis forense, prevención de intrusos y hardening  
+- Seguridad en redes, cloud, endpoints, IoT  
 - Automatización con **Python** y análisis con **SQL**  
-- Uso de herramientas SIEM: **Splunk**, **Google Chronicle**  
-- Prevención de intrusiones, análisis de vulnerabilidades y hardening  
-- Respuesta a incidentes, investigación forense y normas de ciberseguridad
+- Gestión de amenazas con **Splunk**, **Chronicle** y otras herramientas SIEM
 
 ### 🛠️ Herramientas destacadas
 
@@ -74,34 +78,6 @@ He completado rutas profesionales y certificaciones en ciberseguridad ofensiva y
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" />
 </p>
-
-### Seguridad y análisis
-
-<p align="center">
-  🔐 Encriptación, análisis de logs, SIEM, detección de intrusiones, automatización de respuestas
-</p>
-
----
-
-## 📚 Formación y certificaciones
-
-### 🎓 Educación formal
-
-- Título profesional en **Desarrollo Web y Sistemas Informáticos**
-
-### 🛡️ Certificaciones profesionales
-
-- **🔐 Cisco Ethical Hacker (Nivel Intermedio)**  
-  Formación en pentesting, explotación de vulnerabilidades y post-explotación con herramientas reales.
-
-- **🧠 Junior Cybersecurity Analyst – Cisco Networking Academy**  
-  Fundamentos defensivos: firewalls, detección de intrusiones, hardening y análisis forense básico. Preparación para el examen **CCST Cybersecurity**.
-
-- **🔍 Google Cybersecurity Professional Certificate** *(En curso)*  
-  Enfoque integral en ciberseguridad, automatización con Python y SQL, análisis de tráfico y gestión de incidentes con SIEM.
-
-📅 Última actualización: **julio 2025**  
-🔗 Ver insignias: [Credly - Vieira](https://www.credly.com/users/vieira)
 
 ---
 
