@@ -25,7 +25,7 @@
 
 He completado rutas profesionales y certificaciones en ciberseguridad ofensiva y defensiva, incluyendo formación con Cisco y Google. Abarco pruebas de penetración, análisis forense, automatización y gestión de amenazas.
 
-🔗 Ver insignias en [Credly](https://www.credly.com/users/vieira)  
+🔗 Ver insignias en [Credly](https://www.credly.com/users/jose-antonio-vieira-mohamed/badges#credly)  
 📅 Última certificación: **Google Cybersecurity Professional Certificate** *(en curso)*
 
 ### 📚 Áreas clave
