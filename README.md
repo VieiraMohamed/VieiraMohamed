@@ -31,7 +31,7 @@ Me especializo en ciberseguridad ofensiva y defensiva, con formación práctica 
 - **Junior Cybersecurity Analyst – Cisco Networking Academy**  
 - **Google Cybersecurity Professional Certificate** *(en curso)*
 
-🔗 Ver insignias en [Credly](https://www.credly.com/users/vieira)
+🔗 Ver insignias en [Credly](https://www.credly.com/users/jose-antonio-vieira-mohamed/badges#credly)
 
 ### 🧠 Competencias clave
 
