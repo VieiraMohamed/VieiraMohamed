@@ -29,7 +29,7 @@ Me especializo en ciberseguridad ofensiva y defensiva, con formación práctica 
 📜 Certificaciones:  
 - **Cisco Ethical Hacker (Intermedio)**  
 - **Junior Cybersecurity Analyst – Cisco Networking Academy**  
-- **Google Cybersecurity Professional Certificate** *(en curso)*
+- **Google Cybersecurity Professional Certificate**
 
 🔗 Ver insignias en [Credly](https://www.credly.com/users/jose-antonio-vieira-mohamed/badges#credly)
 
