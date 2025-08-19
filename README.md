@@ -27,11 +27,14 @@ Me especializo en ciberseguridad ofensiva y defensiva, con formación práctica 
 
 📚 Educación: Título en **Desarrollo Web y Sistemas Informáticos**  
 📜 Certificaciones:  
+- **eJPT (eLearnSecurity Junior Penetration Tester)** 
 - **Cisco Ethical Hacker (Intermedio)**  
 - **Junior Cybersecurity Analyst – Cisco Networking Academy**  
 - **Google Cybersecurity Professional Certificate**
 
 🔗 Ver insignias en [Credly](https://www.credly.com/users/jose-antonio-vieira-mohamed/badges#credly)
+🔗 Ver insignias en [eJPT]([https://www.credly.com/users/jose-antonio-vieira-mohamed/badges#credly](https://certs.ine.com/22349fc2-38b4-4f1a-a6b1-7ae6a84cd485#acc.qdgOlWrK))
+
 
 ### 🧠 Competencias clave
 
